@@ -12,7 +12,7 @@ These numbers will be used to calculate:
 
 ## Usage
 ```bash
-python3 your_script.py
+python3 exp.py
 ```
 ## Contributors
 Baerto Russell Meneguzzi: bmeneguz@myune.edu.au
